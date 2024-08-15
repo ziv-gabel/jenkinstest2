@@ -3,9 +3,7 @@ pipeline {
   stages {
         stage('Setup') {
             steps {
-                script {
-                    echo "יקךךם םרךג!!"
-                }
+                echo "יקךךם םרךג!!"
             }
         }
 
