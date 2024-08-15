@@ -10,4 +10,5 @@ pipeline {
         }
 
 }
+}
 return this
